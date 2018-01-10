@@ -1,4 +1,11 @@
 /**************** General Elements ****************/
+
+@font-face {
+    font-family: Viner;
+    src: url(https://github.com/Jmackas/Miscellaneous/raw/master/awakening_vitality/VINERITC.TTF);
+}
+
+
 h1 {
     font-size: 40px !important;
     line-height: 1.2 !important;
