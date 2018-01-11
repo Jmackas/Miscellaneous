@@ -1,9 +1,4 @@
 /**************** General Elements ****************/
-
-@import url('https://fonts.googleapis.com/css?family=Tangerine');
-
-
-
 h1 {
     font-size: 40px !important;
     line-height: 1.2 !important;
@@ -161,8 +156,6 @@ div#wsb-element-62cce872-8a36-452e-a455-e02a35a676a8 {
     text-align: center;
     color: lime;
     font-size: 216%;
-    font-family: 'Tangerine', cursive;
-    font-weight: bold;
     background: rgba(0, 0, 0, 0.34) !important;
 }
 
