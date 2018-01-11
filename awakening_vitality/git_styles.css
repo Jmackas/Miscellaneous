@@ -163,3 +163,10 @@ div#wsb-element-62cce872-8a36-452e-a455-e02a35a676a8 {
 #wsb-element-23920955-008e-4e7a-8535-f0f9a38a0b05 {
     transform: translate(-150px,-15px);
 }
+
+@media only screen and (max-width: 1000px) {
+    iframe {
+            width: 100%;
+    }
+    
+}
