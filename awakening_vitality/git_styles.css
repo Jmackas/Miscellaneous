@@ -1,9 +1,7 @@
 /**************** General Elements ****************/
 
-@font-face {
-    font-family: VinerFont;
-    src: url(https://github.com/Jmackas/Miscellaneous/raw/master/awakening_vitality/VINERITC.TTF);
-}
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
 
 
 h1 {
@@ -163,7 +161,8 @@ div#wsb-element-62cce872-8a36-452e-a455-e02a35a676a8 {
     text-align: center;
     color: lime;
     font-size: 216%;
-    font-family: Viner;
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
     background: rgba(0, 0, 0, 0.34) !important;
 }
 
