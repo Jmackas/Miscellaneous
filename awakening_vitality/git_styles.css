@@ -170,3 +170,7 @@ div#wsb-element-62cce872-8a36-452e-a455-e02a35a676a8 {
     }
     
 }
+/* Hide classes random element */
+div#wsb-element-6580a042-bfb8-4cad-9c38-95b8e2a94a05 {
+    display: none;
+}
